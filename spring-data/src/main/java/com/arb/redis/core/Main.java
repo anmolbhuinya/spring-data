@@ -4,10 +4,8 @@ package com.arb.redis.core;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.arb.domain.*;
 import com.arb.redis.model.User;
 import com.arb.redis.service.Service;
-import com.arb.service.*;
 
 /**
  * Hello world!
